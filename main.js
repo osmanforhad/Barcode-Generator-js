@@ -1,3 +1,3 @@
-function alertFunction() {
-  alert("Barcode is coming soon....");
-}
+// function alertFunction() {
+//   alert("Barcode is coming soon....");
+// }
